@@ -1,4 +1,10 @@
-# vue_todo_manager
+# Todo List App - Vuex
+
+[View Project](https://modest-jones-bc24e6.netlify.com/)
+## Built Using
+- Vue.js
+- Vuex
+- Axios
 
 ## Project setup
 ```
